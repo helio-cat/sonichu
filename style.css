@@ -17,7 +17,7 @@ body {
 img {
   width: 100%;
   margin-top: 3rem;
-  mix-blend-mode: multiply;
+  mix-blend-mode: screen;
   max-width: 420px;
   margin: auto;
 }
